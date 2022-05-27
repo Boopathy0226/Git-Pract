@@ -42,4 +42,14 @@ public class GitPractice {
 		System.out.println("10");
 
 	}
+
+	private void method11() {
+		System.out.println("11");
+
+	}
+
+	private void method12() {
+		System.out.println("12");
+
+	}
 }
